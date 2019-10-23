@@ -38,3 +38,7 @@ Rose Din, Lisa Kaunitz, Claire Markey, Allison Ocelo, Cristina Sanchez, Kayla Sc
 #### Team 5:
 Team Members:
 Lawrence Chen, Yurui Zhang, Zihao Chen, Miao Xu, Caizhen Huang, Yingyi Zhu (all from 12pm)
+
+#### Team 6: glhf
+Team Members:
+Anna Lee, Kirk Lam, Jackson Torres, Tyler Chiu, Bryan Kim (All 2PM)
