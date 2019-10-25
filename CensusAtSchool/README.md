@@ -96,3 +96,12 @@ Qianqian Huang (4pm)
 Team Members: 
 * 1pm: Joy Wang
 * 4pm: Wenxin Zhou, Zheng Wang, Jinyi Li, Xinyi Wang, Chengcheng Xu
+
+#### Team 19: 
+Team members:
+Indoo (4:00 pm)
+Giang Nguyen (4:00 pm)
+Jason (4:00 pm)
+Yunseub Kim  (4:00 pm)
+Tuyen Duong (4:00 pm)
+
