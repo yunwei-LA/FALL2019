@@ -91,3 +91,8 @@ Suzie Choi (12pm)
 Fanxing Yu (4pm)
 Haiquan Zhong (4pm)
 Qianqian Huang (4pm)
+
+#### Team 18: Team18
+Team Members: 
+* 1pm: Joy Wang
+* 4pm: Wenxin Zhou, Zheng Wang, Jinyi Li, Xinyi Wang, Chengcheng Xu
