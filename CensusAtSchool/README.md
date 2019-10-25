@@ -64,9 +64,12 @@ Team Members: Jonathan Chang (12 PM), Kevin Chen (2 PM), Hui Yu Chuang (12 PM), 
 
 #### Team 12: Significant Others
 Team Members:
-* 12PM lecture: Monserrat Ibara, Shatakshi Mohan, Steven Salmeron . 
-* 2PM lecture: Elma Garcia
+12PM lecture: Monserrat Ibara, Shatakshi Mohan, Steven Salmeron
+2PM lecture: Elma Garcia
 
 #### Team 13: we are Team13 now
-Team Members: Yunwei Chen, WeiSheng Chen, Ranzheng Zhang, JianCong Qi, Xuelian Zhang, Xilin Tan
+Team Members: Yunwei Chen, WeiSheng Chen, Ranzheng Zhang, JianCong Qi, xuelianzhang, xilin tan
+
+#### Team 14: RRRrrr
+Team Members: Shuyuan Rong(12pm), Yuchen Zhang(12pm), Xinyi Xu(12pm), Xuyang Tian(2pm), Xinyuan Tian(2pm)
 
