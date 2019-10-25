@@ -78,3 +78,8 @@ Team members:
 * 12PM: Tiffany Hsu, Shami Shaji, Faith Tsang
 * 2PM: Jeremy Tran
 * 4PM: Waveley Qiu, Christina Indudhara
+
+#### Team 16: Funky Bunnies
+Team members:
+* 2pm: Situ Ma, Yuqiao Wang
+* 4pm: Xinlin Liu, Bowen Liu, Jingchang Song, Mengtong Zhang
