@@ -62,3 +62,8 @@ Team Members: Xinyi Lu(2pm), Peijiu Qian(2pm), Zecheng Shi(2pm), Chloe Wang(2pm)
 #### Team 11: The Outliers
 Team Members: Jonathan Chang (12 PM), Kevin Chen (2 PM), Hui Yu Chuang (12 PM), Dan Jin (2 PM), Tiffany Trinh (12 PM)
 
+#### Team 12: Significant Others
+Teama Members:
+12PM lecture: Monserrat Ibara, Shatakshi Mohan, Steven Salmeron
+2PM lecture: Elma Garcia
+
