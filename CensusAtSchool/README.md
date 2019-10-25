@@ -105,3 +105,9 @@ Jason (4:00 pm)
 Yunseub Kim  (4:00 pm)
 Tuyen Duong (4:00 pm)
 
+#### Team 20: Big Data Energy
+Team members:
+Garrett Ariana (4:00 pm)
+Sanjana Giduthuri (4:00 pm)
+Valeria Morales (4:00 pm)
+Nikhil Sharma 
