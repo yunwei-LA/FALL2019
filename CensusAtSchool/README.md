@@ -56,8 +56,9 @@ Team Members:
 * 12 PM: Samuel Chen, Mengtong Pan
 * 2 PM: Cindy Zheng, Yi Lin Ye, Jiayun Luo, Rosy Zhou
 
-#### Team 10: The Outliers
-Team Members: Jonathan Chang (12 PM), Kevin Chen (2 PM), Hui Yu Chuang (12 PM), Dan Jin (2 PM), Tiffany Trinh (12 PM)
-
 #### Team 10: Ten out of Ten
 Team Members: Xinyi Lu(2pm), Peijiu Qian(2pm), Zecheng Shi(2pm), Chloe Wang(2pm) 
+
+#### Team 11: The Outliers
+Team Members: Jonathan Chang (12 PM), Kevin Chen (2 PM), Hui Yu Chuang (12 PM), Dan Jin (2 PM), Tiffany Trinh (12 PM)
+
