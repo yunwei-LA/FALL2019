@@ -51,7 +51,7 @@ Team Members:
 * From 12PM Lecture: Nishanth Shetty, Grant Baum, Bruce Tsai, Britney Brown
 * From 4PM Lecture: William Zhu, Karan Patel 
 
-#### Team 9: 
+#### Team 9: A Clear Tendency to Significance (P=0.052)
 Team Members: 
 * 12 PM: Samuel Chen, Mengtong Pan
 * 2 PM: Cindy Zheng, Yi Lin Ye, Jiayun Luo, Rosy Zhou
