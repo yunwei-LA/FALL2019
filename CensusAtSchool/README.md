@@ -73,7 +73,8 @@ Team Members: Yunwei Chen, WeiSheng Chen, Ranzheng Zhang, JianCong Qi, xuelianzh
 #### Team 14: WeLoveBoba
 Team Members: Shuyuan Rong(12pm), Yuchen Zhang(12pm), Xinyi Xu(12pm), Xuyang Tian(2pm), Xinyuan Tian(2pm)
 
-#### Team 15:
+#### Team 15: What Do You Mean
+Team members:
 * 12PM: Tiffany Hsu, Shami Shaji, Faith Tsang
 * 2PM: Jeremy Tran
 * 4PM: Waveley Qiu, Christina Indudhara
