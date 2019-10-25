@@ -110,4 +110,4 @@ Team members:
 Garrett Ariana (4:00 pm)
 Sanjana Giduthuri (4:00 pm)
 Valeria Morales (4:00 pm)
-Nikhil Sharma 
+Nikhil Sharma (4:00 pm)
