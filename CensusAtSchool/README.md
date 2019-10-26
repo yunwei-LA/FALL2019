@@ -111,3 +111,10 @@ Garrett Ariana (4:00 pm)
 Sanjana Giduthuri (4:00 pm)
 Valeria Morales (4:00 pm)
 Nikhil Sharma (4:00 pm)
+
+#### Team 21:
+Team members:
+Simon Shen (2:00 pm)
+Qiyu Dai (2:00 pm)
+Charles Bi (2:00 pm)
+Ki Hyun Park (2:00 pm)
