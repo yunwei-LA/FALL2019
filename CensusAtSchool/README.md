@@ -119,26 +119,26 @@ Qiyu Dai (2:00 pm)
 Charles Bi (2:00 pm)
 Ki Hyun Park (2:00 pm)
 
-#### Team 22:
-Team members:
-HU, QIN (4:00 pm)
-ZHANG, RUBY (YIQIAO) (4:00 pm) 
-LIU, EDDIE (2:00 pm)
-SUAN, EMILY (2:00 pm)
-YANG, SHUANGNING (2:00 pm)
+#### Team 22:  
+Team members:  
+SUAN, EMILY (2:00 pm) 
+HU, QIN (4:00 pm) 
+LIU, YAOHUA (4:00 pm)  
+ZHANG, RUBY (YIQIAO) (4:00 pm)  
+BANATWALA, AZEEM (4:00 pm)  
+MAHAJAN, PRATEEK (4:00 pm) 
 
-#### Team 23:
-Team members:
-ORTEGA, NICHOLAS  (12:00 pm)
-AYCOCK, SAMUEL(4:00 pm) 
-BANATWALA, AZEEM (4:00 pm) 
-ELISALDEZ, JAMES (4:00 pm) 
-GONZALEZ, HUGO   (4:00 pm)
+#### Team 23:  
+Team members:  
+ORTEGA, NICHOLAS  (12:00 pm) 
+AYCOCK, SAMUEL(4:00 pm)  
+ELISALDEZ, JAMES (4:00 pm)  
+GONZALEZ, HUGO   (4:00 pm) 
+LARA, EDWARD (4:00 pm)  
 
 #### Team 24:
-Team members:
-LARA, EDWARD (4:00 pm)
-LIANG, DANXIN (4:00 pm)
-LIU, YAOHUA (4:00 pm)
-MAHAJAN, PRATEEK (4:00 pm)
-ROTH, GABRIEL HORL (4:00 pm)
+Team members:  
+LIU, EDDIE (2:00 pm) 
+YANG, SHUANGNING (2:00 pm)  
+LIANG, DANXIN (4:00 pm)  
+ROTH, GABRIEL HORL (4:00 pm) 
