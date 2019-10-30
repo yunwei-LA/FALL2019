@@ -98,26 +98,26 @@ Team Members:
 * 4pm: Wenxin Zhou, Zheng Wang, Jinyi Li, Xinyi Wang, Chengcheng Xu
 
 #### Team 19: 
-Team members:
-Indoo (4:00 pm)
-Giang Nguyen (4:00 pm)
-Seulchan Kim (4:00 pm)
-Yunseub Kim  (4:00 pm)
-Tuyen Duong (4:00 pm)
+Team members:  
+Indoo (4:00 pm)  
+Giang Nguyen (4:00 pm)  
+Seulchan Kim (4:00 pm)  
+Yunseub Kim  (4:00 pm)  
+Tuyen Duong (4:00 pm)  
 
-#### Team 20: Big Data Energy
-Team members:
-Garrett Ariana (4:00 pm)
-Sanjana Giduthuri (4:00 pm)
-Valeria Morales (4:00 pm)
-Nikhil Sharma (4:00 pm)
+#### Team 20: Big Data Energy  
+Team members:  
+Garrett Ariana (4:00 pm)  
+Sanjana Giduthuri (4:00 pm)  
+Valeria Morales (4:00 pm)  
+Nikhil Sharma (4:00 pm)  
 
 #### Team 21:
-Team members:
-Simon Shen (2:00 pm)
-Qiyu Dai (2:00 pm)
-Charles Bi (2:00 pm)
-Ki Hyun Park (2:00 pm)
+Team members:  
+Simon Shen (2:00 pm)  
+Qiyu Dai (2:00 pm)  
+Charles Bi (2:00 pm)  
+Ki Hyun Park (2:00 pm)  
 
 #### Team 22:  
 Team members:  
