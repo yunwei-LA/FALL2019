@@ -131,7 +131,7 @@ MAHAJAN, PRATEEK (4:00 pm)
 #### Team 23:  
 Team members:  
 ORTEGA, NICHOLAS  (12:00 pm)   
-AYCOCK, SAMUEL(4:00 pm)   
+AYCOCK, SAMUEL(4:00 pm) -> (661)-505-0520  
 ELISALDEZ, JAMES (4:00 pm)  
 GONZALEZ, HUGO   (4:00 pm)  
 LARA, EDWARD (4:00 pm)  
