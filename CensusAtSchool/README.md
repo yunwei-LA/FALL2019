@@ -27,7 +27,7 @@ Tingyi Lu (12pm), Yuqing Jin (12pm), Catherine Wu (2pm), Zuxuan Huai (12pm), Jun
 Team Members:
 Citlally Reynoso (2pm), Fatima Kabbaj (2pm), Hanna Grossman (2pm), Kai Chen Tan (2pm), Patricia Njo (12pm), Yuqing Yang (2pm)
 
-#### Team 3: Data Miner
+#### Team 3: Data Miners
 Team Members:
 Yuqi Meng (12pm), Mengxuan Sun (12pm), Kaixin Wang (12pm), Luqi Zhong (12pm)
 
