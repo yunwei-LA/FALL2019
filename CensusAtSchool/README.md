@@ -35,7 +35,7 @@ Yuqi Meng (12pm), Mengxuan Sun (12pm), Kaixin Wang (12pm), Luqi Zhong (12pm)
 Team Members:
 Rose Din, Lisa Kaunitz, Claire Markey, Allison Ocelo, Cristina Sanchez, Kayla Schroeder (All 12pm)
 
-#### Team 5:
+#### Team 5: Pikichu
 Team Members:
 Lawrence Chen, Yurui Zhang, Zihao Chen, Miao Xu, Caizhen Huang, Yingyi Zhu (all from 12pm)
 
