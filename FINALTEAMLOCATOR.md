@@ -12,5 +12,3 @@ Christina Indudhara
 
 
 
-*** Hi, our team is looking for one more member for the final project. Please email us: duongtuyen000@gmail.com
-Our current members: Giang Nguyen, Bruce Lee, Tuyen Duong. Thank you! ***
