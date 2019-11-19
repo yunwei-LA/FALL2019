@@ -63,9 +63,8 @@ Team Members: Shuyuan Rong(12pm), Yuchen Zhang(12pm), Xinyi Xu(12pm), Xuyang Tia
 
 #### Team 15: What Do You Mean
 Team members:
-* 12PM: Tiffany Hsu, Shami Shaji, Faith Tsang
-* 2PM: Jeremy Tran
-* 4PM: Waveley Qiu, Christina Indudhara
+* 12PM: Tiffany Hsu, Shami Shaji
+* 4PM: Christina Indudhara
 
 #### Team 16: Funky Bunnies
 Team members:
@@ -131,3 +130,9 @@ LIU, EDDIE (2:00 pm)
 YANG, SHUANGNING (2:00 pm)  
 LIANG, DANXIN (4:00 pm)  
 ROTH, GABRIEL HORL (4:00 pm)  
+
+#### Team 25: New Friends
+Team members:
+* 12PM: Faith Tsang
+* 2PM: Jeremy Tran, Catherine Wu, Charles Bi
+* 4PM: Waveley Qiu
