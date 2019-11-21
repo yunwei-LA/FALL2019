@@ -114,8 +114,6 @@ LIU, YAOHUA (4:00 pm)
 ZHANG, RUBY (YIQIAO) (4:00 pm)   
 Bowen Liu(4:00 pm)
 
-BANATWALA, AZEEM (4:00 pm)   
-MAHAJAN, PRATEEK (4:00 pm) 
 #### Team 23:  
 Team members:  
 ORTEGA, NICHOLAS  (12:00 pm)   
