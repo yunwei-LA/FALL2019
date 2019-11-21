@@ -59,7 +59,7 @@ Team Members:
 Team Members: Yunwei Chen, WeiSheng Chen, Ranzheng Zhang, JianCong Qi, xuelianzhang, xilin tan
 
 #### Team 14: WeLoveBoba
-Team Members: Shuyuan Rong(12pm), Yuchen Zhang(12pm), Xinyi Xu(12pm), Xuyang Tian(2pm), Xinyuan Tian(2pm)
+Team Members: Shuyuan Rong(12pm), Yuchen Zhang(12pm), Xinyi Xu(12pm), Xuyang Tian(2pm), Xinyuan Tian(2pm), Situ Ma(2pm)
 
 #### Team 15: What Do You Mean
 Team members:
@@ -68,8 +68,8 @@ Team members:
 
 #### Team 16: Funky Bunnies
 Team members:
-* 2pm: Situ Ma, Yuqiao Wang
-* 4pm: Xinlin Liu, Bowen Liu, Jingchang Song, Mengtong Zhang
+* 2pm: Yuqiao Wang
+* 4pm: Xinlin Liu, Jingchang Song, Mengtong Zhang
 
 #### Team 17: The Best
 Team members:
