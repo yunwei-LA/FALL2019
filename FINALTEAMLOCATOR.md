@@ -11,5 +11,9 @@ Shami Shaji,
 Christina Indudhara
 
 ------
-
 Looking for a team to join. If you need members or can add another, email: sam.a27239@gmail.com
+
+These are looking for a team:
+
+BANATWALA, AZEEM (4:00 pm)   
+MAHAJAN, PRATEEK (4:00 pm) 
