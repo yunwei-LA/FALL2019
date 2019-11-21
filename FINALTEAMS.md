@@ -118,7 +118,6 @@ Bowen Liu(4:00 pm)
 Team members:  
 ELISALDEZ, JAMES (4:00 pm)  
 GONZALEZ, HUGO   (4:00 pm)  
-LARA, EDWARD (4:00 pm)  
 
 #### Team 24:  
 Team members:  
@@ -126,6 +125,7 @@ LIU, EDDIE (2:00 pm)
 YANG, SHUANGNING (2:00 pm)  
 LIANG, DANXIN (4:00 pm)  
 ROTH, GABRIEL HORL (4:00 pm)  
+LARA, EDWARD (4:00 pm)  
 
 #### Team 25: New Friends
 Team members:
