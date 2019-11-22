@@ -132,3 +132,8 @@ Team members:
 * 12PM: Faith Tsang
 * 2PM: Jeremy Tran, Catherine Wu, Charles Bi
 * 4PM: Waveley Qiu
+
+#### Team 26:
+Team members:  
+* 12PM: Nicholas Ortega 
+* 4PM: Sam Aycock, Prateek Mahajan and Azeem Banatwala
